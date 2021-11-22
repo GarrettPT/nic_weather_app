@@ -11,7 +11,7 @@ This is a Node JS based web application used to pull in weather data. This appli
 6. ejs
 
 **API Access Token**
-Before the application is ran, you will need to add an API token from https://home.openweathermap.org/api_keys (I can also provide you my API key via PM should the need arise for demoing purposes). Whenever you have your API key, navigate to the .env file, and save the key as "API_KEY=<your key here>". 
+Before the application is ran, you will need to add an API token from https://home.openweathermap.org/api_keys (I can also provide you my API key via PM should the need arise for demoing purposes). Whenever you have your API key, navigate to the .env file, and save the key as "API_KEY={your key here}". 
 
 
 **In order to run:**
